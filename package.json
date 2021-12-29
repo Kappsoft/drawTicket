@@ -18,5 +18,9 @@
   "bugs": {
     "url": "https://github.com/Kappsoft/drawTicket/issues"
   },
-  "homepage": "https://github.com/Kappsoft/drawTicket#readme"
+  "homepage": "https://github.com/Kappsoft/drawTicket#readme",
+  "dependencies": {
+    "@chainlink/contracts": "^0.3.0",
+    "@openzeppelin/contracts": "^4.4.1"
+  }
 }
