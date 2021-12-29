@@ -1,0 +1,22 @@
+{
+  "name": "drawticket",
+  "version": "0.0.1",
+  "description": "Solidity code for picking three random winners",
+  "main": "truffle-config.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kappsoft/drawTicket.git"
+  },
+  "author": "Dev",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Kappsoft/drawTicket/issues"
+  },
+  "homepage": "https://github.com/Kappsoft/drawTicket#readme"
+}
